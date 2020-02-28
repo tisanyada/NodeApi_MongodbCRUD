@@ -16,4 +16,4 @@
 ## Routes
     -   / 'index page'
     -   /students 'all students added to the db'
-    -   'students/:id 'viewing a particular student by id'
+    -   /students/:id 'viewing a particular student's details by id'
