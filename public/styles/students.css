@@ -1,0 +1,20 @@
+.bck{
+    background-color: rgba(177, 138, 32, 0.473);
+}
+
+.mt{
+    margin-top:1vh;
+}
+
+.mytable{
+    background-color: rgb(255, 253, 251);
+    padding: 25px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+
+h1{
+    color: black;
+    /* font-size: 25px; */
+}

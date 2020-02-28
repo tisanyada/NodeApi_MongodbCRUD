@@ -1,0 +1,35 @@
+.bck{
+    background-color: rgb(70, 23, 26);
+}
+
+.mt{
+    margin-top:1vh;
+}
+
+.myform{
+    background-color: rgb(255, 253, 251);
+    padding: 25px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+
+h1{
+    color: black;
+    /* font-size: 25px; */
+}
+
+select{
+    width: 100%;
+    padding: 8px;
+    border: 1px solid rgb(133, 130, 130);
+    border-radius: 5px;
+}
+
+select:focus{
+    width: 100%;
+    padding: 8px;
+    border: 2px solid rgb(3, 71, 57);
+    border-radius: 5px;
+    outline: 2px
+}
